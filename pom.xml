@@ -28,7 +28,7 @@
 		<java.version>1.8</java.version>
 		<maven.compiler.source>${java.version}</maven.compiler.source>
 		<maven.compiler.target>${java.version}</maven.compiler.target>
-		<json.version>20171018</json.version>
+		<json.version>20230227</json.version>
 		<mockito.version>2.10.0</mockito.version>
 		<junit.version>4.12</junit.version>
 		<maven.surefire>2.18</maven.surefire>
